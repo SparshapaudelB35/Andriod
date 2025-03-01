@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#878181</color>
+    <color name="buttonColorSecondary">#03DAC5</color>
+    <!-- Background Colors -->
+    <color name="backgroundColor">#F3F4F6</color> <!-- Soft off-white background -->
+    <color name="primaryColor">#6200EE</color> <!-- Deep purple for buttons -->
+    <color name="buttonColor">#6200EE</color> <!-- Button background color -->
+    <color name="secondaryButtonColor">#03DAC5</color> <!-- Accent cyan for "Sign Up" -->
+
+    <!-- Text Colors -->
+    <color name="textColorPrimary">#212121</color> <!-- Dark text color -->
+    <color name="textColorSecondary">#757575</color> <!-- Light grey text -->
+    <color name="linkColor">#1E88E5</color> <!-- Blue for links like "Forgot Password" -->
+
+    <!-- Input Field Border Color -->
+    <color name="inputFieldBorderColor">#B0BEC5</color> <!-- Light grey border for inputs -->
+        <color name="background_color">#F5F5F5</color>
+        <color name="primary_text">#212121</color>
+        <color name="button_color">#6200EE</color>
+        <color name="button_text">#FFFFFF</color>
+        <color name="danger_color">#D32F2F</color>
+
+
+</resources>

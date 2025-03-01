@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center"
+    tools:context=".ui.activity.StartingPageActivity">
+
+  <!-- ImageView for Logo or Illustration -->
+  <ImageView
+      android:id="@+id/logoImage"
+      android:layout_width="250dp"
+      android:layout_height="250dp"
+      android:src="@drawable/bookimg"
+      android:scaleType="fitCenter"
+      android:layout_marginTop="80dp"
+      android:layout_gravity="center"/>
+
+  <!-- Welcome Text -->
+  <TextView
+      android:id="@+id/welcomeText"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Welcome to BookStore"
+      android:textSize="22sp"
+      android:textColor="@android:color/background_dark"
+      android:textStyle="bold"
+      android:layout_marginTop="20dp"
+      android:layout_gravity="center"/>
+
+  <!-- Login Button -->
+  <Button
+      android:id="@+id/loginnvg"
+      android:layout_width="250dp"
+      android:layout_height="50dp"
+      android:text="Login"
+      android:textSize="18sp"
+      android:textColor="@android:color/white"
+      android:backgroundTint="@color/buttonColor"
+      android:background="@drawable/rounded_button"
+      android:layout_marginTop="30dp"
+      android:layout_gravity="center"/>
+
+  <!-- Register Button -->
+  <Button
+      android:id="@+id/registernvg"
+      android:layout_width="250dp"
+      android:layout_height="50dp"
+      android:text="Sign Up"
+      android:textSize="18sp"
+      android:textColor="@android:color/white"
+      android:backgroundTint="@color/buttonColorSecondary"
+      android:background="@drawable/rounded_button"
+      android:layout_marginTop="15dp"
+      android:layout_gravity="center"/>
+
+</LinearLayout>

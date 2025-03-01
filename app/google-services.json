@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "837768348872",
+    "firebase_url": "https://andriodstudioproject-e7a9f-default-rtdb.firebaseio.com",
+    "project_id": "andriodstudioproject-e7a9f",
+    "storage_bucket": "andriodstudioproject-e7a9f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837768348872:android:af8676fed499645385d1fd",
+        "android_client_info": {
+          "package_name": "com.example.andriodstdioproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZtiiTm8Pjws0WRopTBUdh2MvgIlP0vWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837768348872:android:e1f2289a2a38ee7185d1fd",
+        "android_client_info": {
+          "package_name": "com.example.bookstoremanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZtiiTm8Pjws0WRopTBUdh2MvgIlP0vWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837768348872:android:d4c1555c78683cae85d1fd",
+        "android_client_info": {
+          "package_name": "com.example.c35a_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZtiiTm8Pjws0WRopTBUdh2MvgIlP0vWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
